@@ -2,7 +2,11 @@
 Made by Alexis VALENCIA
 alexis.valencia@irsn.fr
 
-A very light app to plot MORET & SERPENT Geometries and export them as 3D files.
-This app allow you to export the modelisation into a 3D file (.stl or .ply eg).
+A very light Javascript app to plot MORET & SERPENT Geometries.
+This app also allow you to export the 3D modelisations into 3D files (.stl or .ply eg).
 
-If you just want to use, just downloading it and open index.html with your internet browser.
+To use it, just download it and open "index.html" in your internet browser.
+
+Don't hesitate to contact me for any problem.
+
+Alexis
