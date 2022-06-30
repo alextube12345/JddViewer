@@ -10,3 +10,6 @@ To use it, just download it and open "index.html" in your internet browser.
 Don't hesitate to contact me for any problem.
 
 Alexis
+
+
+![Capture](https://user-images.githubusercontent.com/84465552/176697848-ae81c30e-dfc4-4534-bd1e-dc847bbc6d43.PNG)
